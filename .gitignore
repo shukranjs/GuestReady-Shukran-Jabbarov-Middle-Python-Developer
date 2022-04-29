@@ -1,0 +1,7 @@
+venv/
+**/__pycache__/**
+
+# Ignore every file in migrations folder
+**/migrations/*
+
+db.sqlite3
